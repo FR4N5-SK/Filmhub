@@ -9,7 +9,7 @@ export default function Footer() {
       <Container className="pb-1">
         <Row className="flex-column flex-md-row justify-content-center pt-2">
           <h4 id="contacto" className='text-center mt-3'>Contacto</h4>
-          <DatosContacto linkGitHub={"https://github.com/maikolguerrero"} email={"maikolguerrerop@gmail.com"} imagen={"/images/Maikol.jpg"}/>
+          <DatosContacto linkGitHub={"https://github.com/FR4N5-SK/Filmhub"} email={"fran19062005@gmail.com"} imagen={"/images/francisco.jpg"}/>
         </Row>
         <hr/>
         <p className="text-center">© 2024 Filmhub. Todos los derechos reservados.</p>
