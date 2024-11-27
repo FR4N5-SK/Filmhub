@@ -28,11 +28,11 @@ Aquí tienes un video de YouTube que muestra una demostración de la aplicación
 ## Instalación
 - **1.** Clona el repositorio:
 ```
-git clone github.com/maikolguerrero/filmhub-client.git
+git clone https://github.com/FR4N5-SK/Filmhub.git
 ```
 - **2.**  Ingresa al directorio del proyecto:
 ```
-cd filmhub-client
+cd filmhub-frontend
 ```
 - **3.**  Instala las dependencias:
 ```
@@ -73,20 +73,16 @@ Aquí tienes un video de YouTube que muestra una demostración de la aplicación
 - Swagger
 
 ## Instalación
-- **1.** Clona el repositorio:
+- **1.**  Ingresa al directorio del proyecto:
 ```
-git clone https://github.com/maikolguerrero/filmhub-server.git
+cd filmhub-backend
 ```
-- **2.**  Ingresa al directorio del proyecto:
-```
-cd filmhub-server
-```
-- **3.**  Instala las dependencias:
+- **2.**  Instala las dependencias:
 ```
 npm install
 ```
-- **4.**  Importa la base de datos MySQL que se encuentra en la carpeta `db`.
-- **5.** Configura las variables de entorno en un archivo `.env`. Puedes basarte en el archivo `.env.example` proporcionado.
+- **3.**  Importa la base de datos MySQL que se encuentra en la carpeta `db`.
+- **4.** Configura las variables de entorno en un archivo `.env`. Puedes basarte en el archivo `.env.example` proporcionado.
 
 ## Uso
 - **1.** Ejecuta la aplicación: 
